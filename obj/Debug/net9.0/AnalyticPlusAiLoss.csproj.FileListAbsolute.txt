@@ -1,0 +1,4 @@
+E:\AnalyticPlusAiLossModel\obj\Debug\net9.0\AnalyticPlusAiLoss.GeneratedMSBuildEditorConfig.editorconfig
+E:\AnalyticPlusAiLossModel\obj\Debug\net9.0\AnalyticPlusAiLoss.AssemblyInfoInputs.cache
+E:\AnalyticPlusAiLossModel\obj\Debug\net9.0\AnalyticPlusAiLoss.AssemblyInfo.cs
+E:\AnalyticPlusAiLossModel\obj\Debug\net9.0\AnalyticPlusAiLoss.csproj.CoreCompileInputs.cache

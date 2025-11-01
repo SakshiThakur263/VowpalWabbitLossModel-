@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AnalyticPlusAiLossModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|e:\\analyticplusailossmodel\\data\\training_data.vw||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|solutionrelative:data\\training_data.vw||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|e:\\analyticplusailossmodel\\core\\calculations\\analyticplusailossmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|solutionrelative:core\\calculations\\analyticplusailossmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|e:\\analyticplusailossmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|e:\\analyticplusailossmodel\\core\\calculations\\lossprobabilityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|solutionrelative:core\\calculations\\lossprobabilityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|e:\\analyticplusailossmodel\\core\\calculations\\futureoutcomepredictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|solutionrelative:core\\calculations\\futureoutcomepredictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|e:\\analyticplusailossmodel\\core\\calculations\\barriermath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|solutionrelative:core\\calculations\\barriermath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|e:\\analyticplusailossmodel\\core\\models\\pricingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|solutionrelative:core\\models\\pricingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|e:\\analyticplusailossmodel\\core\\models\\knockoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|solutionrelative:core\\models\\knockoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|e:\\analyticplusailossmodel\\ai\\fakeaicalibrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|solutionrelative:ai\\fakeaicalibrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|e:\\analyticplusailossmodel\\data\\predicted_results_with_profit.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|solutionrelative:data\\predicted_results_with_profit.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|e:\\analyticplusailossmodel\\data\\training_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|solutionrelative:data\\training_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|e:\\analyticplusailossmodel\\tools\\trainingdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|solutionrelative:tools\\trainingdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|e:\\analyticplusailossmodel\\ai\\vwcalibrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|solutionrelative:ai\\vwcalibrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|e:\\analyticplusailossmodel\\ai\\iaicalibrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134388EA-3975-CB92-9EB9-5E3351C80432}|AnalyticPlusAiLossModel.csproj|solutionrelative:ai\\iaicalibrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Intel\\AppData\\Local\\Temp\\.vsdbgsrc\\20826b6512cbacf8a1a3fa84ca5e621d8b27055bd5fe03a1566c44f441f91819\\SafeFileHandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnalyticPlusAiLossModel.cs",
+              "DocumentMoniker": "E:\\AnalyticPlusAiLossModel\\Core\\Calculations\\AnalyticPlusAiLossModel.cs",
+              "RelativeDocumentMoniker": "Core\\Calculations\\AnalyticPlusAiLossModel.cs",
+              "ToolTip": "E:\\AnalyticPlusAiLossModel\\Core\\Calculations\\AnalyticPlusAiLossModel.cs",
+              "RelativeToolTip": "Core\\Calculations\\AnalyticPlusAiLossModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:58:30.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FutureOutcomePredictor.cs",
+              "DocumentMoniker": "E:\\AnalyticPlusAiLossModel\\Core\\Calculations\\FutureOutcomePredictor.cs",
+              "RelativeDocumentMoniker": "Core\\Calculations\\FutureOutcomePredictor.cs",
+              "ToolTip": "E:\\AnalyticPlusAiLossModel\\Core\\Calculations\\FutureOutcomePredictor.cs",
+              "RelativeToolTip": "Core\\Calculations\\FutureOutcomePredictor.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAASwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:20:28.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "training_data.vw",
+              "DocumentMoniker": "E:\\AnalyticPlusAiLossModel\\Data\\training_data.vw",
+              "RelativeDocumentMoniker": "Data\\training_data.vw",
+              "ToolTip": "E:\\AnalyticPlusAiLossModel\\Data\\training_data.vw",
+              "RelativeToolTip": "Data\\training_data.vw",
+              "ViewState": "AgIAADkBAAAAAAAAAAAWwEIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-31T10:44:02.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LossProbabilityRequest.cs",
+              "DocumentMoniker": "E:\\AnalyticPlusAiLossModel\\Core\\Calculations\\LossProbabilityRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Calculations\\LossProbabilityRequest.cs",
+              "ToolTip": "E:\\AnalyticPlusAiLossModel\\Core\\Calculations\\LossProbabilityRequest.cs",
+              "RelativeToolTip": "Core\\Calculations\\LossProbabilityRequest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA3wBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:01:39.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AnalyticPlusAiLossModel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\AnalyticPlusAiLossModel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:30:09.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BarrierMath.cs",
+              "DocumentMoniker": "E:\\AnalyticPlusAiLossModel\\Core\\Calculations\\BarrierMath.cs",
+              "RelativeDocumentMoniker": "Core\\Calculations\\BarrierMath.cs",
+              "ToolTip": "E:\\AnalyticPlusAiLossModel\\Core\\Calculations\\BarrierMath.cs",
+              "RelativeToolTip": "Core\\Calculations\\BarrierMath.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:32:13.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PricingConfig.cs",
+              "DocumentMoniker": "E:\\AnalyticPlusAiLossModel\\Core\\Models\\PricingConfig.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\PricingConfig.cs",
+              "ToolTip": "E:\\AnalyticPlusAiLossModel\\Core\\Models\\PricingConfig.cs",
+              "RelativeToolTip": "Core\\Models\\PricingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:28:43.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FakeAiCalibrator.cs",
+              "DocumentMoniker": "E:\\AnalyticPlusAiLossModel\\Ai\\FakeAiCalibrator.cs",
+              "RelativeDocumentMoniker": "Ai\\FakeAiCalibrator.cs",
+              "ToolTip": "E:\\AnalyticPlusAiLossModel\\Ai\\FakeAiCalibrator.cs",
+              "RelativeToolTip": "Ai\\FakeAiCalibrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:39:11.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KnockOutDto.cs",
+              "DocumentMoniker": "E:\\AnalyticPlusAiLossModel\\Core\\Models\\KnockOutDto.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\KnockOutDto.cs",
+              "ToolTip": "E:\\AnalyticPlusAiLossModel\\Core\\Models\\KnockOutDto.cs",
+              "RelativeToolTip": "Core\\Models\\KnockOutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:02:04.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrainingDataGenerator.cs",
+              "DocumentMoniker": "E:\\AnalyticPlusAiLossModel\\Tools\\TrainingDataGenerator.cs",
+              "RelativeDocumentMoniker": "Tools\\TrainingDataGenerator.cs",
+              "ToolTip": "E:\\AnalyticPlusAiLossModel\\Tools\\TrainingDataGenerator.cs",
+              "RelativeToolTip": "Tools\\TrainingDataGenerator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:09:03.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VwCalibrator.cs",
+              "DocumentMoniker": "E:\\AnalyticPlusAiLossModel\\Ai\\VwCalibrator.cs",
+              "RelativeDocumentMoniker": "Ai\\VwCalibrator.cs",
+              "ToolTip": "E:\\AnalyticPlusAiLossModel\\Ai\\VwCalibrator.cs",
+              "RelativeToolTip": "Ai\\VwCalibrator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:38:46.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "predicted_results_with_profit.csv",
+              "DocumentMoniker": "E:\\AnalyticPlusAiLossModel\\Data\\predicted_results_with_profit.csv",
+              "RelativeDocumentMoniker": "Data\\predicted_results_with_profit.csv",
+              "ToolTip": "E:\\AnalyticPlusAiLossModel\\Data\\predicted_results_with_profit.csv",
+              "RelativeToolTip": "Data\\predicted_results_with_profit.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-10-31T10:43:52.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "training_data.csv",
+              "DocumentMoniker": "E:\\AnalyticPlusAiLossModel\\Data\\training_data.csv",
+              "RelativeDocumentMoniker": "Data\\training_data.csv",
+              "ToolTip": "E:\\AnalyticPlusAiLossModel\\Data\\training_data.csv",
+              "RelativeToolTip": "Data\\training_data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-10-31T10:44:01.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAiCalibrator.cs",
+              "DocumentMoniker": "E:\\AnalyticPlusAiLossModel\\Ai\\IAiCalibrator.cs",
+              "RelativeDocumentMoniker": "Ai\\IAiCalibrator.cs",
+              "ToolTip": "E:\\AnalyticPlusAiLossModel\\Ai\\IAiCalibrator.cs",
+              "RelativeToolTip": "Ai\\IAiCalibrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:39:07.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SafeFileHandle.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\AppData\\Local\\Temp\\.vsdbgsrc\\20826b6512cbacf8a1a3fa84ca5e621d8b27055bd5fe03a1566c44f441f91819\\SafeFileHandle.cs",
+              "ToolTip": "C:\\Users\\Intel\\AppData\\Local\\Temp\\.vsdbgsrc\\20826b6512cbacf8a1a3fa84ca5e621d8b27055bd5fe03a1566c44f441f91819\\SafeFileHandle.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:40:05.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
